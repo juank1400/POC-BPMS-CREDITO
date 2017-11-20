@@ -4,12 +4,12 @@
 
 Esta POC pretende mostrar las capacidades generales de Jboss BPMS, se ha considerado:
 
-1.- Proceso general y llamado a subproceso reutilizable
-2.- Invocación de reglas de negocio para la segmentación de cliente y cálculo de crédito
-3.- Se considera la interacción de 4 roles
-4.- Invocación de Rest
-5.- Envío de correo usando nodo email del producto.
-6.- Customización simple de formularios.
+1.- Proceso general y llamado a subproceso reutilizable<br/>
+2.- Invocación de reglas de negocio para la segmentación de cliente y cálculo de crédito<br/>
+3.- Se considera la interacción de 4 roles<br/>
+4.- Invocación de Rest<br/>
+5.- Envío de correo usando nodo email del producto.<br/>
+6.- Customización simple de formularios.<br/>
 
 
 ## Preparación del ambiente
