@@ -40,4 +40,4 @@ Deberemos crear los roles "ejecutivoOficina","analistaCredito","ejecutivoStandar
 
 * Accedemos al menú de administración
 
-![Menú Administración](https://pasteboard.co/GUsqq6M.png)
+![Menú Administración](https://user-images.githubusercontent.com/20805557/33000328-18cb3ac2-cd86-11e7-948e-1735331af50b.png)
