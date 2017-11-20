@@ -1,0 +1,28 @@
+
+<form id="845940080">
+<property name="name" value="Poc.SolicitudCredito-taskform.form"/>
+<property name="displayMode" value="aligned"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1680000861">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;quot;dequot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;quot;enquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;quot;esquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;quot;frquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;quot;jaquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;quot;ptquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;quot;zhquot;,quot;&lt;h2 style=&quot;font-style:italic;&quot;&gt;&lt;ins&gt;&lt;strong&gt;Inicio de proceso&lt;/strong&gt;&lt;/ins&gt;&lt;/h2&gt;
+quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="correoBody" value="java.lang.String" id="correoBody"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="correoFrom" value="java.lang.String" id="correoFrom"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="correoSubject" value="java.lang.String" id="correoSubject"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="correoTo" value="java.lang.String" id="correoTo"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="mensaje" value="java.lang.String" id="mensaje"/>
+<dataHolder inputId="" name="#FF54A7" type="dataModelerEntry" outId="persona" value="apap.poc.Persona" id="persona"/>
+<dataHolder inputId="" name="#A7E690" type="dataModelerEntry" outId="resultREST" value="apap.poc.Resultado" id="resultREST"/>
+</form>

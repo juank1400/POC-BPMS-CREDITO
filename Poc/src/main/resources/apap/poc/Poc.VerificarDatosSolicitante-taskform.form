@@ -1,0 +1,121 @@
+
+<form id="243340076">
+<property name="name" value="Poc.VerificarDatosSolicitante-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="existeCliente" type="CheckBox" id="430942541">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;existeCliente (existeCliente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="existeCliente"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="1" name="persona_aprobadoAnalista" type="CheckBox" id="1120584344">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;aprobadoAnalista (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/aprobadoAnalista"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="2" name="persona_aptoCredito" type="CheckBoxPrimitiveBoolean" id="1287862966">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;aptoCredito (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/aptoCredito"/>
+<property name="fieldClass" value="boolean"/>
+</field>
+<field position="3" name="persona_cedula" type="InputText" id="1137831832">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cedula (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/cedula"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="persona_correoElectronico" type="InputText" id="1546352699">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;correoElectronico (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/correoElectronico"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="persona_direccion" type="InputText" id="1257471422">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;direccion (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/direccion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="persona_edad" type="InputTextInteger" id="1315724385">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;edad (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/edad"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="7" name="persona_esCliente" type="CheckBox" id="743834104">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;esCliente (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/esCliente"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="8" name="persona_estadoCivil" type="InputText" id="196271832">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;estadoCivil (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/estadoCivil"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="persona_montoCredito" type="InputTextInteger" id="1613935114">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;montoCredito (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/montoCredito"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="10" name="persona_nombre" type="InputText" id="71235342">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombre (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="11" name="persona_salario" type="InputTextInteger" id="533846751">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;salario (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/salario"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="12" name="persona_segmento" type="InputText" id="1511894119">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;segmento (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/segmento"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="persona_sexo" type="InputText" id="1235467938">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;sexo (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/sexo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="14" name="persona_telefono" type="InputTextInteger" id="414137011">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;telefono (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="persona/telefono"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="15" name="texto" type="InputText" id="733495610">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;texto (texto)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="texto"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="existeCliente" value="java.lang.Boolean" id="existeCliente"/>
+<dataHolder inputId="" name="#FF54A7" type="dataModelerEntry" outId="persona" value="apap.poc.Persona" id="persona"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="texto" value="java.lang.String" id="texto"/>
+</form>

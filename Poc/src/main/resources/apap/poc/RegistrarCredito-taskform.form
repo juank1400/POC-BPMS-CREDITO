@@ -1,0 +1,118 @@
+
+<form id="760713843">
+<property name="name" value="RegistrarCredito-taskform.form"/>
+<property name="displayMode" value="aligned"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_2" type="HTMLLabel" id="951216293">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;quot;dequot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;quot;enquot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;quot;esquot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;quot;frquot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;quot;jaquot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;quot;ptquot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;quot;zhquot;,quot;&lt;h1&gt;Formulario Ingreso de Datos para Credito&lt;/h1&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="persona_nombre" type="InputText" id="1158437837">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;nombre (persona)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="persona/nombre"/>
+<property name="outputBinding" value="persona/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="persona_edad" type="InputTextInteger" id="1168712520">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;edad (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/edad"/>
+<property name="outputBinding" value="persona/edad"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="3" name="persona_sexo" type="InputText" id="563359731">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;sexo (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/sexo"/>
+<property name="outputBinding" value="persona/sexo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="persona_cedula" type="InputText" id="1849357641">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;cedula (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/cedula"/>
+<property name="outputBinding" value="persona/cedula"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="persona_estadoCivil" type="InputText" id="413574139">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;estadoCivil (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/estadoCivil"/>
+<property name="outputBinding" value="persona/estadoCivil"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="persona_salario" type="InputTextInteger" id="1207059647">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;salario (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/salario"/>
+<property name="outputBinding" value="persona/salario"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="7" name=":decorator_3" type="HTMLLabel" id="19537240">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;quot;dequot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;quot;enquot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;quot;esquot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;quot;frquot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;quot;jaquot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;quot;ptquot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;quot;zhquot;,quot;&lt;h2&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/h2&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="8" name="persona_direccion" type="InputText" id="2053894311">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;direccion (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/direccion"/>
+<property name="outputBinding" value="persona/direccion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="persona_correoElectronico" type="InputText" id="1372333582">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;correoElectronico (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/correoElectronico"/>
+<property name="outputBinding" value="persona/correoElectronico"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="persona_telefono" type="InputTextInteger" id="649157827">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;telefono (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/telefono"/>
+<property name="outputBinding" value="persona/telefono"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="11" name=":decorator_0" type="Separator" id="1498536189">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="12" name=":decorator_1" type="Separator" id="1311984175">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<dataHolder inputId="persona" name="#FF54A7" type="dataModelerEntry" outId="persona" value="apap.poc.Persona" id="persona"/>
+</form>

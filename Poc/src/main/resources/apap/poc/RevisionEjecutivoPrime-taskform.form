@@ -1,0 +1,118 @@
+
+<form id="412067710">
+<property name="name" value="RevisionEjecutivoPrime-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1008280690">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;quot;dequot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;quot;enquot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;quot;esquot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;quot;frquot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;quot;jaquot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;quot;ptquot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;quot;zhquot;,quot;&lt;h1&gt;Banca Prime - Revisi&amp;oacute;n Cr&amp;eacute;dito&lt;/h1&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="persona_nombre" type="InputText" id="1159864962">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombre (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/nombre"/>
+<property name="outputBinding" value="persona/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="persona_edad" type="InputTextInteger" id="1418838810">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;edad (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/edad"/>
+<property name="outputBinding" value="persona/edad"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="3" name="persona_sexo" type="InputText" id="1738513935">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;sexo (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/sexo"/>
+<property name="outputBinding" value="persona/sexo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="11" name="persona_aptoCredito" type="CheckBoxPrimitiveBoolean" id="2087857459">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;aptoCredito (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/aptoCredito"/>
+<property name="outputBinding" value="persona/aptoCredito"/>
+<property name="fieldClass" value="boolean"/>
+</field>
+<field position="4" name="persona_cedula" type="InputText" id="200787876">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cedula (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/cedula"/>
+<property name="outputBinding" value="persona/cedula"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="persona_correoElectronico" type="InputText" id="190623789">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;correoElectronico (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/correoElectronico"/>
+<property name="outputBinding" value="persona/correoElectronico"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="persona_direccion" type="InputText" id="135674296">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;direccion (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/direccion"/>
+<property name="outputBinding" value="persona/direccion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="persona_estadoCivil" type="InputText" id="274249575">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;estadoCivil (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/estadoCivil"/>
+<property name="outputBinding" value="persona/estadoCivil"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="persona_salario" type="InputTextInteger" id="201175853">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;salario (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/salario"/>
+<property name="outputBinding" value="persona/salario"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="10" name="persona_telefono" type="InputTextInteger" id="96073973">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;telefono (persona)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="persona/telefono"/>
+<property name="outputBinding" value="persona/telefono"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="7" name=":decorator_1" type="HTMLLabel" id="1100429005">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;dequot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;enquot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;esquot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;frquot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;jaquot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;ptquot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;zhquot;,quot;&lt;h2&gt;&lt;strong&gt;&lt;ins&gt;Datos de Contacto&lt;/ins&gt;&lt;/strong&gt;&lt;/h2&gt;
+quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<dataHolder inputId="persona" name="#FF54A7" type="dataModelerEntry" outId="persona" value="apap.poc.Persona" id="persona"/>
+</form>
