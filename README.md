@@ -63,7 +63,7 @@ Deberemos crear los roles "ejecutivoOficina","analistaCredito","ejecutivoStandar
 **NOTA** Para revisar los artefactos del proyecto debemos estar en la ruta default >> apap >> poc
 
 ![Revisar arbol](https://user-images.githubusercontent.com/20805557/33000855-50a7a6ee-cd89-11e7-8810-294f5d734072.png)
-https://github.com/RobsonWatt/POC-BPMS-https://github.com/RobsonWatt/POC-BPMS-RESThttps://github.com/RobsonWatt/POC-BPMS-REST
+
 * Dentro de nuestro Project Editor seleccionamos la opción "Deployment descriptor"
 
 ![Deployment descriptor](https://user-images.githubusercontent.com/20805557/33000950-c0b5f10c-cd89-11e7-99e2-64272ca0580f.png)
@@ -77,9 +77,9 @@ https://github.com/RobsonWatt/POC-BPMS-https://github.com/RobsonWatt/POC-BPMS-RE
 
  ![Habilitar envio](https://user-images.githubusercontent.com/20805557/33001405-78f3adf2-cd8c-11e7-8655-8d205190e536.png)
 
-Name: Email
-Identifier: new org.jbpm.process.workitem.email.EmailWorkItemHandler("smtp.gmail.com","587","workshopbpms@gmail.com","redhat2017","true")
-Resolver Type: mvel
+Name: Email<br/>
+Identifier: new org.jbpm.process.workitem.email.EmailWorkItemHandler("smtp.gmail.com","587","workshopbpms@gmail.com","redhat2017","true")<br/>
+Resolver Type: mvel<br/>
 
 ### Compilar Proyecto
 Al compilar nuestro proyecto se generará la definición de los procesos de negocio del mismo, quedando listo para su ejecución. Para compilar el proyecto simplemente debemos acceder al Project Editor y seleccionar la opción "Build"
