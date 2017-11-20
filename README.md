@@ -39,4 +39,4 @@ Deberemos crear los roles "ejecutivoOficina","analistaCredito","ejecutivoStandar
 ### Creación de Organizational Unit y repositorio
 
 * Accedemos al menú de administración
-![Menú Administración](https://drive.google.com/file/d/1o-Nmm4m5N4XWbvgQeKNJz0MmjNnvi28q/view?usp=sharing)
+![Menú Administración](https://drive.google.com/file/d/1o-Nmm4m5N4XWbvgQeKNJz0MmjNnvi28q/view)
